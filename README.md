@@ -1,3 +1,6 @@
+本人只基于jeecg-boot 基础做商城业务场景拓展实践,如有问题请参考jeecg文档。
+
+
 Ant Design Jeecg Vue
 ====
 
